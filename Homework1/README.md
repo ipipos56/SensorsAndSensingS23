@@ -34,6 +34,7 @@ Code task2.py generate noisy data points and apply polynomial regression using t
 The curve_fit function optimizes the parameters of the given polynomial function to minimize the mean squared error between the function and the data points. The optimized parameters are then used to plot the fitted function over the original data.
 
 Also, I generated it 3 times:
+
 ![](pictures2/myplot.png)
 ![](pictures2/myplot2.png)
 ![](pictures2/myplot3.png)
