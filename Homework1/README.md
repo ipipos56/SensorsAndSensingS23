@@ -39,7 +39,7 @@ Also, I generated it 3 times:
 ![](pictures2/myplot2.png)
 ![](pictures2/myplot3.png)
 
-The linspace function was used to generate 50 equally spaced values between 0 and 10 as the x-values. The y-values were calculated using a polynomial equation 2 * x**3 + 5 * x**2 - 4 * x + 8, with additional random noise added using np.random.normal(0, 4, 50).
+The linspace function was used to generate 50 equally spaced values between 0 and 10 as the x-values. The y-values were calculated using a polynomial equation 2 * x^3 + 5 * x^2 - 4 * x + 8, with additional random noise added using np.random.normal(0, 4, 50).
 
 The curve_fit function minimizes the mean squared error between the function and the data points, and returns the optimized parameters and the covariance matrix.
 
